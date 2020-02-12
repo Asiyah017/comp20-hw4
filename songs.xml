@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <?xml-stylesheet type="text/css" href="songs.css"?> 
 <Songs> 
-	<title>Hello Everyone! Welcome to Our Top Ten Songs of all time</title> 
+	<name>Hello Everyone! Welcome to Our Top Ten Songs of all time</name> 
 	<song> 
-		<title>Girls like you</title> 
+		<name>Girls like you</name> 
 		<artist>Maroon 5</artist> 
 		<genre>Pop</genre> 
 		<year>2018</year> 
 	</song> 
 	<song> 
-		<title>Love Yourself</title> 
+		<name>Love Yourself</name> 
 		<artist>Justin Bieber</artist> 
 		<genre>Pop</genre> 
 		<year>2015</year> 
 	</song> 
 	<song> 
-		<title>Wake Me Up</title> 
+		<name>Wake Me Up</name> 
 		<artist>Avicii</artist> 
 		<genre>Pop</genre> 
 		<year>2013</year>  
 	</song> 
 	<song> 
-		<title>Cheap thrills</title>
+		<name>Cheap thrills</name>
 		<artist>Sia</artist>  
 		<genre>Pop</genre> 
 		<year>2016</year>  
 	</song> 
 	<song>
-		<title>All About That Bass</title> 
+		<name>All About That Bass</name> 
 		<artist>Meghan Trainor</artist>  
 		<genre>Pop</genre> 
 		<year>2014</year> 
 	</song> 
 	<song>
-		<title>All About That Bass</title> 
-		<artist>Meghan Trainor</artist>  
+		<name>Grenade</name> 
+		<artist>Bruno Mars</artist>  
 		<genre>Pop</genre> 
-		<year>2014</year> 
+		<year>2010</year> 
 	</song> 
 	<song>
-		<title>Be Apart</title> 
+		<name>Be Apart</name> 
 		<artist>Tia Ray</artist>  
 		<genre>Pop</genre> 
 		<year>2014</year> 
 	</song> 
 	<song>
-		<title>Let It Go</title> 
+		<name>Let It Go</name> 
 		<artist>Idina Menzel</artist>  
 		<genre>Pop</genre> 
 		<year>2013</year> 
 	</song> 
 	<song>
-		<title>Sorry</title> 
-		<artist>Justin Bieber</artist>  
+		<name>Sorry</name> 
+		<artist>Justin Bieber</artist>
 		<genre>Pop</genre> 
 		<year>2015</year> 
 	</song> 
 	<song>
-		<title>Work</title> 
+		<name>Work</name> 
 		<artist>Rihanna</artist>  
 		<genre>RnB</genre> 
 		<year>2014</year> 
