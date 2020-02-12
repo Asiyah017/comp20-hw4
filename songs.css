@@ -25,13 +25,13 @@ artist, name, genre, year {
 								display:block; 
 								text-align:center; 
 								} 
-artist { 
+name { 
 	color:green; 
 	text-decoration: underline ; 
 	font-weight:bolder; 
 	font-size:20px; 
 	} 
-name { 
+artist { 
 	color:green
 	} 
 genre { 
