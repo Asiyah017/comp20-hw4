@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="songs.css"?> 
+<Songs> 
+	<title>Hello Everyone! Welcome to Our Top Ten Songs for the week</title> 
+	<song> 
+		<artist>Algo</artist> 
+		<title>Greedy Algo</title> 
+		<genre>Randomised Algo</genre> 
+		<year>Searching Algo</year> 
+	</song> 
+	<song> 
+		<artist>Data Structures</artist> 
+		<title>Array</title> 
+		<genre>Stack</genre> 
+		<year>Queue</year> 
+	</song> 
+	<song> 
+		<artist>Web Technology</artist> 
+		<title>HTML</title> 
+		<genre>CSS</genre> 
+		<year>Java Script</year>  
+	</song> 
+	<song> 
+		<artist>Languages</artist> 
+		<title>C/C++</title> 
+		<genre>Java</genre> 
+		<year>Python</year>  
+	</song> 
+	<song> 
+		<artist>DBMS</artist> 
+		<title>Basics</title> 
+		<genre>ER Diagram</genre> 
+		<year>Normalization</year> 
+	</song> 
+</Songs> 
